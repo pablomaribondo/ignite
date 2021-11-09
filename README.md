@@ -10,9 +10,11 @@
 
 Projetos desenvolvidos durante o programa de aceleração profissional **Ignite**, oferecido pela [Rocketseat][rocketseat].
 
-<img align="center" alt="react" height="15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<h3 style="display: inline-block;">Trilha <strong>ReactJS</strong></h3>
-
+<div>
+  <img align="center" alt="react" height="15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <h3 style="display: inline-block;">Trilha <strong>ReactJS</strong></h3>
+</div>
+  
 #### Chapter I
 
 - [Github Explorer](https://github.com/pablomaribondo/github-explorer)
