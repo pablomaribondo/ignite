@@ -12,7 +12,7 @@ Projetos desenvolvidos durante o programa de aceleração profissional **Ignite*
 
 <h3>
   <img src=".github/react-original.svg" width="20px" alt="react" >
-  <span>Trilha <strong>ReactJS</strong></span>
+  Trilha ReactJS
 </h3>
   
 #### Chapter I
