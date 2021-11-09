@@ -10,12 +10,10 @@
 
 Projetos desenvolvidos durante o programa de aceleração profissional **Ignite**, oferecido pela [Rocketseat][rocketseat].
 
-<br/>
 <h3>
   <img align="center" alt="react" height="15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <span>Trilha <strong>ReactJS</strong></span>
 </h3>
-<br/>
 
 #### Chapter I
 
