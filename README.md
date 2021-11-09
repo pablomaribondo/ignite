@@ -3,10 +3,10 @@
 </h1>
 
 <h4 align="center">
-  🚀 [Ignite]
+  🚀 Never Stop Learning
 </h4>
 
-## 💻 Projetos
+## 💻 Ignite
 
 Projetos desenvolvidos durante o programa de aceleração profissional **Ignite**, oferecido pela [Rocketseat][rocketseat].
 
