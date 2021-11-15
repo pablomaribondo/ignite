@@ -31,9 +31,9 @@ Projetos desenvolvidos durante o programa de aceleração profissional **Ignite*
 
 Projetos desenvolvidos com base nas aulas de eventos intensivos oferecidos pela [Rocketseat][rocketseat].
 
-- [Semana OmniStack 5.0](https://github.com/pablomaribondo/semana-omnistack-5)
-- [Semana OmniStack 6.0](https://github.com/pablomaribondo/semana-omnistack-6)
-- [Semana OmniStack 7.0](https://github.com/pablomaribondo/semana-omnistack-7)
-- [Semana OmniStack 8.0](https://github.com/pablomaribondo/semana-omnistack-8)
-- [Semana OmniStack 9.0](https://github.com/pablomaribondo/semana-omnistack-9)
-- [Semana OmniStack 10.0](https://github.com/pablomaribondo/semana-omnistack-10)
+- [Semana OmniStack 5.0 - Twitter](https://github.com/pablomaribondo/semana-omnistack-5)
+- [Semana OmniStack 6.0 - RocketBox](https://github.com/pablomaribondo/semana-omnistack-6)
+- [Semana OmniStack 7.0 - Instagram](https://github.com/pablomaribondo/semana-omnistack-7)
+- [Semana OmniStack 8.0 - Tindev](https://github.com/pablomaribondo/semana-omnistack-8)
+- [Semana OmniStack 9.0 - AirCnC](https://github.com/pablomaribondo/semana-omnistack-9)
+- [Semana OmniStack 10.0 - DevRadar](https://github.com/pablomaribondo/semana-omnistack-10)
