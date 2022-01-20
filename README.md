@@ -24,6 +24,7 @@ Projetos desenvolvidos durante o programa de aceleração profissional **Ignite*
 #### Chapter II
 
 - [DT Money](https://github.com/pablomaribondo/dtmoney)
+- [Desafio 03: Criando um hook de carrinho de compras](https://github.com/pablomaribondo/ignite-desafio03-reactjs)
 
 [rocketseat]: https://rocketseat.com.br/
 
