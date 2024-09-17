@@ -38,4 +38,4 @@ Projetos desenvolvidos com base nas aulas de eventos intensivos oferecidos pela 
 - [Semana OmniStack 8.0 - Tindev](https://github.com/pablomaribondo/semana-omnistack-8)
 - [Semana OmniStack 9.0 - AirCnC](https://github.com/pablomaribondo/semana-omnistack-9)
 - [Semana OmniStack 10.0 - DevRadar](https://github.com/pablomaribondo/semana-omnistack-10)
-- [Next Level Week Pocket - Javascript](https://github.com/pablomaribondo/nlw-pocket-js)
+- [Next Level Week Pocket: Javascript - in.orbit](https://github.com/pablomaribondo/nlw-pocket-js)
